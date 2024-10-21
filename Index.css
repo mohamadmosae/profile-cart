@@ -49,3 +49,7 @@ svg{
 svg:hover{
       color: #343a40;   
 }
+p{
+      color: #adb5bd ;
+      opacity: .8;
+}
